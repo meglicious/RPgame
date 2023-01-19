@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{EAB076D6-3873-432B-85A1-DB0BDB070894}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RPgame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RPgame/Ranger.cs">
+    <Files>
+      <File FileName="RPgame/Program.cs" />
+      <File FileName="RPgame/Rogue.cs" />
+      <File FileName="RPgame/armor.cs" />
+      <File FileName="RPgame/AttributeGain.cs" />
+      <File FileName="RPgame/Warrior.cs" />
+      <File FileName="RPgame/equip.cs" />
+      <File FileName="RPgame/Hero.cs" />
+      <File FileName="RPgame/weapons.cs" />
+      <File FileName="RPgame/Worlds.cs" />
+      <File FileName="RPgame/Mage.cs" />
+      <File FileName="RPgame/monster.cs" />
+      <File FileName="RPgame/PointsCount.cs" Line="15" Column="20" />
+      <File FileName="RPgame/Ranger.cs" Line="23" Column="14" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPgame " expanded="True">
+            <Node name="RPgame" expanded="True">
+              <Node name="Ranger.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

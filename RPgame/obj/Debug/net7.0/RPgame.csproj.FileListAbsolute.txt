@@ -1,0 +1,5 @@
+/Users/meg/code/RPGH_assignment1/RPGame/RPgame/RPgame/obj/Debug/net7.0/RPgame.csproj.AssemblyReference.cache
+/Users/meg/code/RPGH_assignment1/RPGame/RPgame/RPgame/obj/Debug/net7.0/RPgame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meg/code/RPGH_assignment1/RPGame/RPgame/RPgame/obj/Debug/net7.0/RPgame.AssemblyInfoInputs.cache
+/Users/meg/code/RPGH_assignment1/RPGame/RPgame/RPgame/obj/Debug/net7.0/RPgame.AssemblyInfo.cs
+/Users/meg/code/RPGH_assignment1/RPGame/RPgame/RPgame/obj/Debug/net7.0/RPgame.csproj.CoreCompileInputs.cache
